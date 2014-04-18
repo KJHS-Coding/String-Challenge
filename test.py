@@ -1,6 +1,5 @@
 import unittest
-import pangrams
-import vowels
+from src import  pangrams, vowels
 
 class TestExercises(unittest.TestCase):
     
