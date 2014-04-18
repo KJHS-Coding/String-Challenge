@@ -4,7 +4,7 @@ A few challenges borrowed from www.reddit.com/r/dailyprogrammer for exercising s
 ## Using This Repo
 Edit the `.py` files in `src/` to pass the tests.  To run the tests, `cd` into the root of this repo and run
 ```bash
-python3 tests.py
+python3 test.py
 ```
 
 ## Exercises
