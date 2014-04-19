@@ -4,8 +4,11 @@ A few challenges borrowed from www.reddit.com/r/dailyprogrammer for exercising s
 ## Using This Repo
 Edit the `.py` files in `src/` to pass the tests.  To run the tests, `cd` into the root of this repo and run
 ```bash
-python3 test.py
+$ python3 test.py
 ```
+When editing the files in `src/`, you can add any functions you like, or even add more modules (`.py` files),
+but if you change any of the original names of files or functions, *you're gonna have a bad time.*  Take a
+look at `test.py` to understand why.
 
 ## Exercises
 
