@@ -1,5 +1,5 @@
 # String-Challenge
-A few challenges borrowed from www.reddit.com/r/dailyprogrammer for exercising string methods and concepts.
+A few challenges borrowed from [/r/dailyprogrammer](www.reddit.com/r/dailyprogrammer) for exercising string methods and concepts.
 
 ## Using This Repo
 Edit the `.py` files in `src/` to pass the tests.  To run the tests, `cd` into the root of this repo and run
